@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Raimonds",
+            "group": "TasPats",
+            "database": "${workspaceFolder:sql-movies}/_db/01-database.sqlite3"
+        }
+    ]
+}
